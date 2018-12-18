@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c90775-c57b-4672-8f4f-9b02075b42b2" name="Default Changelist" comment="Mohammad">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaWeek4/Exercise5/Grocery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaWeek4/Exercise5/Grocery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaWeek6/Exercise5/CreditCardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaWeek6/Exercise5/CreditCardApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReflectionWeek4" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReflectionWeek4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReflectionWeek5/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReflectionWeek5/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReflectionWeek5/CarApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReflectionWeek5/CarApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hee/boo.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/excercises_NACS$Main.ic" NAME="Main Coverage Results" MODIFIED="1541423508695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="95" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1324328971">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="11" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="8" />
+          <entry key="project.opened" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="818" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="55948" />
+          <entry key="PLAIN_TEXT" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="28" />
+          <entry key="java" value="55948" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="TOPIC" value="2" />
+          <entry key="class" value="1" />
+          <entry key="csv" value="3" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="818" />
+          <entry key="kt" value="1" />
+          <entry key="log" value="1" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise3/NumberJudge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise3/BiggesAndSmallestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise3/NumberApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="yet_unknown" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SmallLetters</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>smallLetters</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise3/CoffeeMaker.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise3/CoffeeMakers.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise3/FrenchPress.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise3/CoffeeMakerApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise2/ConeIceCream.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise2/ConeIceCreamTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Application.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Cent1.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Cent2.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Cent5.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Cent10.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Cent20.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Cent50.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/GreedyAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/Money.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/GreedyAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise4/GreedyApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/CreditCard.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/AmericanExpress.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/MasterCard.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/VisaCard.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/Validator.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/ListOfValidators.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/Credit.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek6/Exercise5/CreditCardApplication.java" />
+        <option value="$PROJECT_DIR$/src/ReflectionWeek5/AutomaticCar.java" />
+        <option value="$PROJECT_DIR$/src/ReflectionWeek5/ManualCar.java" />
+        <option value="$PROJECT_DIR$/src/ReflectionWeek5/Hansel.java" />
+        <option value="$PROJECT_DIR$/src/ReflectionWeek5/Car.java" />
+        <option value="$PROJECT_DIR$/src/ReflectionWeek5/Cars.java" />
+        <option value="$PROJECT_DIR$/src/ReflectionWeek5/CarApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/MoneyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/MoneyCollector.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/CalculatorApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/MoneyCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/NicknamesApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/NumberJudge.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/NumberApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise4/NumberSplitter.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise5/Palindromejudge.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise5/PalindromeApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise4/SplitterApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise1/MoneyCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise2/NickNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise2/NicknamesApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise2/NickNameGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise3/BiggesAndSmallestTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise3/NumberJudge.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise3/NumberApplication.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise4/SplitterApplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaWeek7/Exercise5/PalindromeApplicationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-76" />
+    <option name="y" value="75" />
+    <option name="width" value="1129" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="excercises NACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excercises NACS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="excercises NACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excercises NACS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="excercises NACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excercises NACS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaWeek7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="excercises NACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excercises NACS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaWeek7" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="excercises NACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excercises NACS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaWeek7" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="excercises NACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="excercises NACS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RobocodeIntoJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545134147551" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/junit-jupiter-api-5.3.1.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="JavaWeek7.Exercise5" />
+      <recent name="JavaWeek7.Exercise4" />
+      <recent name="JavaWeek7.Exercise2" />
+      <recent name="JavaWeek7" />
+      <recent name="JavaWeek6.Exercise4" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="JavaWeek5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaWeek7/Exercise1" />
+      <recent name="$PROJECT_DIR$/src/JavaWeek5/Exercise5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PalindromeApplicationTest">
+    <configuration name="NumberApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaWeek7.Exercise3.NumberApplication" />
+      <module name="excercises NACS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaWeek7.Exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiggesAndSmallestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="excercises NACS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaWeek7.Exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaWeek7.Exercise3" />
+      <option name="MAIN_CLASS_NAME" value="JavaWeek7.Exercise3.BiggesAndSmallestTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiggesAndSmallestTest.testNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="excercises NACS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaWeek7.Exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaWeek7.Exercise3" />
+      <option name="MAIN_CLASS_NAME" value="JavaWeek7.Exercise3.BiggesAndSmallestTest" />
+      <option name="METHOD_NAME" value="testNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="excercises NACS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaWeek7.Exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaWeek7.Exercise5" />
+      <option name="MAIN_CLASS_NAME" value="JavaWeek7.Exercise5.PalindromeApplicationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitterApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="excercises NACS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaWeek7.Exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaWeek7.Exercise4" />
+      <option name="MAIN_CLASS_NAME" value="JavaWeek7.Exercise4.SplitterApplicationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BiggesAndSmallestTest" />
+      <item itemvalue="JUnit.BiggesAndSmallestTest.testNumber" />
+      <item itemvalue="Application.NumberApplication" />
+      <item itemvalue="JUnit.SplitterApplicationTest" />
+      <item itemvalue="JUnit.PalindromeApplicationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PalindromeApplicationTest" />
+        <item itemvalue="JUnit.SplitterApplicationTest" />
+        <item itemvalue="JUnit.BiggesAndSmallestTest" />
+        <item itemvalue="Application.NumberApplication" />
+        <item itemvalue="JUnit.BiggesAndSmallestTest.testNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c90775-c57b-4672-8f4f-9b02075b42b2" name="Default Changelist" comment="" />
+      <created>1541419212860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541419212860</updated>
+      <workItem from="1541419214729" duration="599000" />
+      <workItem from="1541421714227" duration="31345000" />
+      <workItem from="1541586410527" duration="14023000" />
+      <workItem from="1541655251746" duration="22002000" />
+      <workItem from="1541751454340" duration="10326000" />
+      <workItem from="1541849628851" duration="16000" />
+      <workItem from="1541849811461" duration="34000" />
+      <workItem from="1541883666517" duration="619000" />
+      <workItem from="1542018603165" duration="8780000" />
+      <workItem from="1542118346242" duration="2656000" />
+      <workItem from="1542183335057" duration="28951000" />
+      <workItem from="1542349204690" duration="3081000" />
+      <workItem from="1542458181799" duration="787000" />
+      <workItem from="1542551361192" duration="20969000" />
+      <workItem from="1542806303945" duration="5427000" />
+      <workItem from="1542880042689" duration="4417000" />
+      <workItem from="1542896153148" duration="757000" />
+      <workItem from="1542952796539" duration="6846000" />
+      <workItem from="1543146673631" duration="10210000" />
+      <workItem from="1543233782306" duration="8318000" />
+      <workItem from="1543314568411" duration="21548000" />
+      <workItem from="1543480640249" duration="19251000" />
+      <workItem from="1543676525812" duration="9711000" />
+      <workItem from="1543828551839" duration="15751000" />
+      <workItem from="1543853323850" duration="610000" />
+      <workItem from="1543916004177" duration="23081000" />
+      <workItem from="1544023867312" duration="606000" />
+      <workItem from="1544083762750" duration="12087000" />
+      <workItem from="1544371863353" duration="3261000" />
+      <workItem from="1544437054027" duration="12862000" />
+      <workItem from="1544515160707" duration="16771000" />
+      <workItem from="1544596175649" duration="14827000" />
+      <workItem from="1544640731882" duration="287000" />
+      <workItem from="1544694658689" duration="3528000" />
+      <workItem from="1544773876401" duration="5820000" />
+      <workItem from="1545034617632" duration="19927000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mohammad">
+      <created>1542889143423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542889143423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MoneyCalculatorTest - 2018.12.17 at 15h 20m 20s.xml">
+      <configuration name="MoneyCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NickNameGeneratorTest - 2018.12.17 at 15h 38m 18s.xml">
+      <configuration name="NickNameGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NickNameGeneratorTest - 2018.12.17 at 15h 38m 30s.xml">
+      <configuration name="NickNameGeneratorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BiggesAndSmallestTest - 2018.12.17 at 15h 44m 44s.xml">
+      <configuration name="BiggesAndSmallestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BiggesAndSmallestTest - 2018.12.17 at 15h 46m 39s.xml">
+      <configuration name="BiggesAndSmallestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BiggesAndSmallestTest_testNoNumber - 2018.12.17 at 15h 46m 49s.xml">
+      <configuration name="BiggesAndSmallestTest.testNoNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BiggesAndSmallestTest_testNumber - 2018.12.17 at 15h 46m 59s.xml">
+      <configuration name="BiggesAndSmallestTest.testNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BiggesAndSmallestTest - 2018.12.17 at 15h 55m 59s.xml">
+      <configuration name="BiggesAndSmallestTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SplitterApplicationTest - 2018.12.17 at 15h 59m 33s.xml">
+      <configuration name="SplitterApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeApplicationTest - 2018.12.17 at 16h 00m 35s.xml">
+      <configuration name="PalindromeApplicationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="360091000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1008" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4917408" visible="true" weight="0.16488793" />
+      <window_info id="Structure" order="1" sideWeight="0.50825924" side_tool="true" weight="0.25119388" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29965556" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36509758" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39839265" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3065442" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24914286" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32921174" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.329653" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mohammad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mohammad" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/Exercise5w3.java</url>
+          <line>5</line>
+          <properties class="RobocodeIntoJava.ExercisesWeek3.Exercise5w3">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/Credit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/CreditCardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/ListOfValidators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/Validation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/VisaCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/MasterCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/CreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise5/AmericanExpress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise1/BigHotAirBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise1/SmallHotAirBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek6/Exercise1/HotAirBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek5/Exercise4/SuperheroApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek5/Exercise4/SuperheroCaller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReflectionWeek5/Hansel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReflectionWeek5/ManualCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReflectionWeek5/AutomaticCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReflectionWeek5/CarApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" lean-forward="true" selection-start-column="2" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReflectionWeek5/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReflectionWeek5/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise1/MoneyCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise1/MoneyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise1/CalculatorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/Exercise3w3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/exercise4w3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/excercis10w2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/Excercise15w2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/Excercise16w2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/Excercise17w2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/excercise19w2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/Excersice21w2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/Exercise17B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/Exercise20w2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExcercisesWeek2/exercise22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/exersice9w3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/exercise8w3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/Exercise7w3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/Exercise6w3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RobocodeIntoJava/ExercisesWeek3/Exercise5w3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise4/NumberSplitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise1/MoneyCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise2/NickNameGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise2/NickNameGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise2/NicknamesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise4/SplitterApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise4/SplitterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise5/PalindromeApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise5/PalindromeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise5/Palindromejudge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise3/NumberApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise3/BiggesAndSmallestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaWeek7/Exercise3/NumberJudge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>excercises NACS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-jupiter-api-5.3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
