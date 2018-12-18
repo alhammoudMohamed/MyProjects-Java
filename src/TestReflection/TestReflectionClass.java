@@ -1,4 +1,4 @@
-package TestReflection;
-
-public class TestReflectionClass {
-}
+//package TestReflection;
+//
+//public class TestReflectionClass {
+//}
