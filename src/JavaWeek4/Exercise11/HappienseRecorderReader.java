@@ -29,7 +29,7 @@ public class HappienseRecorderReader {
     private HappinessRecord toHappinessRecord(String line) {
         String[] split = line.split(";");
         List<String> columns = Arrays.asList(split);
-        String country = columns.get(0);
+        String emp = columns.get(0);
         String rank = columns.get(1);
         String score = columns.get(2);
         return new HappinessRecord(country,Integer.valueOf(rank), Double.valueOf(score));
