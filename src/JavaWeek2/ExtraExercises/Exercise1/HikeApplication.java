@@ -1,0 +1,10 @@
+package JavaWeek2.ExtraExercises.Exercise1;
+
+public class HikeApplication {
+    public static void main(String[] args) {
+
+        Hike hike = new Hike();
+        hike.signUp();
+        hike.showHikers();
+    }
+}

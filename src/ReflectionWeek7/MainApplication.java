@@ -1,29 +1,29 @@
-package ReflectionWeek7;
-
-import JavaWeek4.Exercise9.FileReader;
-
-
-
-public class MainApplication {
-    public static void main(String[] args) {
-        Bank bank = new Bank();
-
-
-
-
-        //getDisplayTotalAmountOfMoneyPaid(Employees);
-
-
-
-    }
-
-
-        }
-
-
-    }
-
-
+//package ReflectionWeek7;
+//
+//import JavaWeek4.Exercise9.FileReader;
+//
+//
+//
+//public class MainApplication {
+//    public static void main(String[] args) {
+//        Bank bank = new Bank();
+//
+//
+//
+//
+//        //getDisplayTotalAmountOfMoneyPaid(Employees);
+//
+//
+//
+//    }
+//
+//
+//        }
+//
+//
+//    }
+//
+//
 
 
 
@@ -40,5 +40,5 @@ public class MainApplication {
 //        return moneySum;
 
 
-    }
-}
+//    }
+//}
