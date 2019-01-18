@@ -1,13 +1,14 @@
 package JavaWeek4.Exercise11;
 
 public class HappinessRecord {
-    @Override
-    public String toString() {
-        return "HappinessRecord{" +
-                "country='" + country + '\'' +
-                ", rank=" + rank +
-                ", score=" + score +
-                '}';
+    private String country;
+    private Integer rank;
+    private Double score;
+
+    public HappinessRecord(String country, Integer rank, Double score) {
+        this.country = country;
+        this.rank = rank;
+        this.score = score;
     }
 
     public String getCountry() {
@@ -22,13 +23,12 @@ public class HappinessRecord {
         return score;
     }
 
-    private String country;
-    private Integer rank;
-    private Double score;
-
-    public HappinessRecord(String country, Integer rank, Double score) {
-        this.country = country;
-        this.rank = rank;
-        this.score = score;
+    @Override
+    public String toString() {
+        return "HappinessRecord{" +
+                "country='" + country + '\'' +
+                ", rank='" + rank + '\'' +
+                ", score='" + score + '\'' +
+                '}';
     }
 }

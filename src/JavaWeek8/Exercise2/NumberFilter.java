@@ -12,15 +12,11 @@ public class NumberFilter {
         }
         return filtered;
     }
-
-
-
     public List<Integer> getEven(List<Integer> numbers) {
-        Predicate<Integer> condiation = number -> number % 2 == 0;
-        return filter(numbers, condiation);
+        return filter(numbers, e -> e % 2 == 0);
     }
-    public List<Integer> getOdd(List<Integer> numbers) {
-        Predicate<Integer> condiation = number -> number % 2 != 0;
-        return filter(numbers, condiation);
-    }
+
+        public List<Integer> getOdd(List<Integer> numbers) {
+            return filter(numbers, e -> e % 2 == 1);
+        }
 }
