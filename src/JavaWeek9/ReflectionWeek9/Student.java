@@ -4,10 +4,10 @@ public class Student {
     private String gender;
 
     private String education;
-
     private Integer mathScore;
     private Integer readingScore;
     private Integer writingScore;
+
     public Student(String gender, String education, Integer mathScore, Integer readingScore, Integer writingScore) {
         this.gender = gender;
         this.education = education;
@@ -41,4 +41,6 @@ public class Student {
         return gender ;
 
     }
-}
+
+    }
+

@@ -1,0 +1,35 @@
+package JavaWeek7.ReflectionWeek7;
+
+import JavaWeek4.Exercise9.FileReader;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class TeaPartyParticipantsReader {
+    private FileReader reader = new FileReader();
+
+    public List<TeaParty> asList() {
+        List<String> lines = getLines();
+        List<Participants>  teaParty = toEmployees(lines);
+        return records;
+
+    }
+
+    private List<TeaParty> toEmployees(List<String> lines) {
+        List<TeaParty> information = new ArrayList<>();
+        lines.remove(0);
+        for (String line : lines) {
+            information.add(toEmployees(line));
+        }
+        return information;
+    }
+
+    private List<String> getLines() {
+        return reader.asLines("JavaWeek7.ReflectionWeek7/employees.csv");
+    }
+
+ return new Bank(nameOfEmployee, nameOfDepartment, Integer.valueOf(Salary), Account);
+    }
+
+}

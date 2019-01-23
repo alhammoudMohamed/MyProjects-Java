@@ -1,6 +1,5 @@
 package JavaWeek9.Exercise4;
 
-import JavaWeek4.Exercise11.HappinessRecord;
 import JavaWeek4.Exercise9.FileReader;
 import java.util.Arrays;
 import java.util.Comparator;
