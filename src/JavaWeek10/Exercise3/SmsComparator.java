@@ -32,9 +32,7 @@ public class SmsComparator {
                 .map(e -> e.getKey() + " | " + e.getValue() + " Times")
                 .findFirst();
 
-        if (MostAppeared.isPresent()) {
-            System.out.println("Most Appearing ham word is " + MostAppeared.get());
-        }
+        MostAppeared.ifPresent(s -> System.out.println("Most Appearing ham word is " + s));
 
 
     }
@@ -52,8 +50,7 @@ public class SmsComparator {
                 .sorted((e1, e2) -> e2.getValue().compareTo(e1.getValue()))
                 .map(e -> e.getKey() + " | " + e.getValue() + " Times")
                 .findFirst();
-        if (MostUsedHamLetter.isPresent())
-            System.out.println("Most Appearing Ham Letter is: " + MostUsedHamLetter.get());
+        MostUsedHamLetter.ifPresent(s -> System.out.println("Most Appearing Ham Letter is: " + s));
 
     }
 
@@ -64,8 +61,7 @@ public class SmsComparator {
                 .boxed()
                 .sorted(Comparator.reverseOrder())
                 .findFirst();
-        if (longestSpamMessage.isPresent())
-            System.out.println("The Longest Spam Message is : " + longestSpamMessage.get());
+        longestSpamMessage.ifPresent(integer -> System.out.println("The Longest Spam Message is : " + integer));
     }
 
 

@@ -17,6 +17,7 @@ public class StudentComparator {
                 .map(e -> e.getEducation())
                 .collect(Collectors.groupingBy(e -> e, Collectors.counting()));
     }
+    //when we use collectores.counting we get a map with the key is the element and the value is how many  times its repeated.
 
 
     public List<String> EducationLevelSortedTopToBottom() {
@@ -38,7 +39,7 @@ public class StudentComparator {
 
     public List<String> getTopFourStudentsAveregeScoreAndGender() {
         return reader.getStudents().stream()
-                .map(e -> ((e.getWritingScore()+e.getReadingScore()+e.getMathScore())/3) + "|" + e.getGender())
+                .map(e -> ((e.getWritingScore() + e.getReadingScore() + e.getMathScore()) / 3) + "|" + e.getGender())
                 .sorted(Comparator.reverseOrder())
                 .limit(3)
                 .collect(Collectors.toList());
@@ -46,10 +47,10 @@ public class StudentComparator {
 
     }
 
-    Boolean IsThereAnyStudentWithEducationLevelofSomehigSchoolWith95InEverytopic(){
+    Boolean IsThereAnyStudentWithEducationLevelofSomehigSchoolWith95InEverytopic() {
         return reader.getStudents().stream()
-                .filter(e-> e.getEducation().equalsIgnoreCase("Some high school"))
-                .anyMatch(e-> e.getWritingScore()>95 && e.getWritingScore() >95 && e.getReadingScore()>95);
+                .filter(e -> e.getEducation().equalsIgnoreCase("Some high school"))
+                .anyMatch(e -> e.getWritingScore() > 95 && e.getWritingScore() > 95 && e.getReadingScore() > 95);
 
     }
 

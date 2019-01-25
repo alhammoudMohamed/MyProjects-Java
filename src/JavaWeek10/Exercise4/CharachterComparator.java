@@ -1,5 +1,6 @@
 package JavaWeek10.Exercise4;
 
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class CharachterComparator {
@@ -22,17 +23,19 @@ public class CharachterComparator {
 
     }
 
-//    public String getDeathPercentage() {
-//        return reader.getCharachters().stream()
-//                .map(Charachter::getBookOfDeath)
-//                .filter(e -> !e.equals(""))
-//                .collect(Collectors.groupingBy(e -> e, Collectors.counting()))
-//                .entrySet().stream()
-//                .sorted((e1, e2) -> e2.getValue().compareTo(e1.getValue()))
-//
-//
-//                .map(getNumberOfDeath() * 100 / (getNumberOfCharachter()))
-//                .collect(Collectors.toList());
-//
-//    }
+    public void getBiggestDeathCountBook() {
+
+        Optional<String> longestDeathCountBook = reader.getCharachters().stream()
+                .map(Charachter::getBookOfDeath)
+                .filter(e -> !e.equals(""))
+                .collect(Collectors.groupingBy(e -> e, Collectors.counting()))
+                .entrySet().stream()
+                .sorted((e1, e2) -> e2.getValue().compareTo(e1.getValue()))
+                .map(e -> e.getKey() + " |" + e.getValue() + " deaths")
+                .findFirst();
+        longestDeathCountBook.ifPresent(s -> System.out.println("The Biggest Death Count Book is: " + s));
+
+
+    }
+
 }
