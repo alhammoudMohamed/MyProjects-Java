@@ -1,7 +1,9 @@
 package JavaWeek8.Exercise2;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
+
 public class NumberFilter {
     public List<Integer> filter(List<Integer> numbers, Predicate<Integer> condition) {
         List<Integer> filtered = new ArrayList<>();
@@ -12,11 +14,12 @@ public class NumberFilter {
         }
         return filtered;
     }
+
     public List<Integer> getEven(List<Integer> numbers) {
         return filter(numbers, e -> e % 2 == 0);
     }
 
-        public List<Integer> getOdd(List<Integer> numbers) {
-            return filter(numbers, e -> e % 2 == 1);
-        }
+    public List<Integer> getOdd(List<Integer> numbers) {
+        return filter(numbers, e -> e % 2 == 1);
+    }
 }
